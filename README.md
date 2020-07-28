@@ -6,6 +6,7 @@
 ![](https://img.shields.io/static/v1?label=spotify&message=mohanagy&color=7BB32E&logo=spotify) 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/lizheming)
 
+![Alt Text](https://github.com/mohanagy/mohanagy/edit/master/Naji_gif.gif)
 
 
 ## Tech Stack :computer:
