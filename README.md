@@ -4,7 +4,7 @@
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 ![](https://img.shields.io/static/v1?label=skype&message=mohanagy&color=7BB32E&logo=skype) 
 ![](https://img.shields.io/static/v1?label=spotify&message=mohanagy&color=7BB32E&logo=spotify) 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/lizheming)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/mohanagy)
 
 ![](https://github.com/mohanagy/mohanagy/blob/master/Naji_gif.gif?raw=true)
 
