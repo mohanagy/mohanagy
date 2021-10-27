@@ -88,4 +88,4 @@
 </table>
 
 
-![mohammed naji's Github stats](https://github-readme-stats.vercel.app/api?username=mohanagy&show_icons=true)
+![mohammed naji's Github stats](https://github-readme-stats.vercel.app/api?username=mohanagy&show_icons=true&&theme=blue-green)
